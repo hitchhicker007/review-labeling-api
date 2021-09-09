@@ -13,7 +13,15 @@ features = np.load('features.npy')
 with open("model.sav", 'rb') as file:  
     model = pickle.load(file)
 
+class Index(Resource):
+    def get(self):
+        return jsonify(message="this is sentiment analysis endpoint, made by hitch hicker...")
+        
+
 class Predict(Resource):
+
+    def get(self):
+        return jsonify(message="send a post request...")
     
     def post(self):        
         json_data = request.get_json(force=True)
@@ -36,6 +44,7 @@ class Predict(Resource):
             return jsonify(message="sentence is negative :(")
 
 api.add_resource(Predict,'/predict')
+api.add_resource(Index,'/')
 
 if __name__ == '__main__':
     app.run()
