@@ -19,8 +19,8 @@ to get live end point of api, [tap here](http://hh-sentiment-analysis.herokuapp.
 
 ## Getting Started
 
-- run flask app
-- make post request on " /predict " end point with required data
+- run app.py file, this will start a server on your local machine
+- make post request on " localhost/predict " end point with required data
 
 ## Project Admin
 
