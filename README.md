@@ -1,6 +1,6 @@
 # Customer Review Labeling API
 
-[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-tomato.svg?style=flat&logo=git)](https://github.com/hitchhicker007/review-labeling-api/issues) [![GitHub stars](https://img.shields.io/github/stars/hitchhicker007/review-labeling-api.svg?logo=github)](https://github.com/hitchhicker007/review-labeling-api/stargazers) [![GitHub forks](https://img.shields.io/github/forks/hitchhicker007/review-labeling-api.svg?logo=github&color=yellow)](https://github.com/hitchhicker007/review-labeling-api/network) [![GitHub top language](https://img.shields.io/github/languages/top/hitchhicker007/review-labeling-api?color=blue&logo=dart)](https://github.com/hitchhicker007/review-labeling-api)
+[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-tomato.svg?style=flat&logo=git)](https://github.com/hitchhicker007/review-labeling-api/issues) [![GitHub stars](https://img.shields.io/github/stars/hitchhicker007/review-labeling-api.svg?logo=github)](https://github.com/hitchhicker007/review-labeling-api/stargazers) [![GitHub forks](https://img.shields.io/github/forks/hitchhicker007/review-labeling-api.svg?logo=github&color=yellow)](https://github.com/hitchhicker007/review-labeling-api/network) [![GitHub top language](https://img.shields.io/github/languages/top/hitchhicker007/review-labeling-api?color=blue&logo=python)](https://github.com/hitchhicker007/review-labeling-api)
 
 ## Description
 
