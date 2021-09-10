@@ -4,7 +4,7 @@
 
 ## Description
 
-This API gives label to the input review text of particular product or service, whether the review is positive or negative.
+This API gives a label to the review text of a particular product or service, whether the review is positive or negative.
 
 ## Live End Point
 to get live end point of api, [tap here](http://hh-sentiment-analysis.herokuapp.com/predict).
